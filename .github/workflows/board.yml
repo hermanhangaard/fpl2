@@ -6,6 +6,11 @@ on:
     # dropper planlagte kjoeringer, og aa be oftere enn dette gjorde det verre.
     - cron: '*/10 * * * *'
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Bygg selv om early exit sier nei"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # committe data/ tilbake
@@ -37,7 +42,7 @@ jobs:
 
       - name: Bygg tavla
         id: bygg
-        run: python kode/build.py --rot .
+        run: python kode/build.py --rot .${{ inputs.force && ' --force' || '' }}
 
       - name: Lagre historikk
         if: steps.bygg.outputs.bygget == 'true'
