@@ -222,7 +222,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "3427307": {
    "beste_gw_nr": 2,
@@ -454,7 +454,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "4830299": {
    "beste_gw_nr": 2,
@@ -682,7 +682,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "4843492": {
    "beste_gw_nr": 2,
@@ -700,7 +700,7 @@
    "fornavn": "Ludvig",
    "gw_poeng": 0,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Haaland",
    "lagnavn": "bruno blid",
    "trekk": 0,
@@ -914,7 +914,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6013090": {
    "beste_gw_nr": 2,
@@ -928,7 +928,7 @@
    "fornavn": "Henrik",
    "gw_poeng": 0,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Haaland",
    "lagnavn": "Emirat Piratene",
    "trekk": 0,
@@ -1142,7 +1142,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6216295": {
    "beste_gw_nr": 2,
@@ -1365,7 +1365,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6283726": {
    "beste_gw_nr": 2,
@@ -1374,7 +1374,7 @@
    "fornavn": "Karl",
    "gw_poeng": 6,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "Haaland",
    "lagnavn": "Son sett ja!",
    "trekk": 0,
@@ -1588,7 +1588,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "630698": {
    "beste_gw_nr": 2,
@@ -1610,7 +1610,7 @@
    "fornavn": "Hans Theodor",
    "gw_poeng": 0,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Haaland",
    "lagnavn": "2Eze4Mee",
    "trekk": 4,
@@ -1824,7 +1824,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6357910": {
    "beste_gw_nr": 2,
@@ -2043,7 +2043,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6806105": {
    "beste_gw_nr": 2,
@@ -2269,7 +2269,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "7573061": {
    "beste_gw_nr": 2,
@@ -2287,7 +2287,7 @@
    "fornavn": "Mats",
    "gw_poeng": 0,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Haaland",
    "lagnavn": "Kobbie Wan Kenobi",
    "trekk": 0,
@@ -2503,7 +2503,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "854499": {
    "beste_gw_nr": 2,
@@ -2733,7 +2733,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "8609232": {
    "beste_gw_nr": 2,
@@ -2961,7 +2961,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "963265": {
    "beste_gw_nr": 2,
@@ -3245,7 +3245,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   }
  },
  "ferdig": false,
