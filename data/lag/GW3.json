@@ -10,7 +10,7 @@
    ],
    "chip": null,
    "fornavn": "Kristupas",
-   "gw_poeng": 36,
+   "gw_poeng": 45,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -47,7 +47,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Konsa",
-     "poeng": 1,
+     "poeng": 4,
      "posisjon": 3,
      "spilt": true,
      "type": 2,
@@ -59,7 +59,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -95,7 +95,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Tzolis",
-     "poeng": 1,
+     "poeng": 5,
      "posisjon": 7,
      "spilt": true,
      "type": 3,
@@ -143,7 +143,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 11,
      "spilt": true,
      "type": 4,
@@ -198,7 +198,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "3427307": {
    "beste_gw_nr": 2,
@@ -214,7 +214,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Herman",
-   "gw_poeng": 50,
+   "gw_poeng": 52,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -239,7 +239,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -323,7 +323,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
      "spilt": true,
      "type": 4,
@@ -402,7 +402,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "4830299": {
    "beste_gw_nr": 2,
@@ -414,7 +414,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 39,
+   "gw_poeng": 40,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -439,7 +439,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Gabriel",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -571,7 +571,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "Konsa",
-     "poeng": 1,
+     "poeng": 4,
      "posisjon": 13,
      "spilt": true,
      "type": 2,
@@ -602,7 +602,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "4843492": {
    "beste_gw_nr": 2,
@@ -618,7 +618,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Ludvig",
-   "gw_poeng": 57,
+   "gw_poeng": 59,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -643,7 +643,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "White",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -739,7 +739,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 10,
      "spilt": true,
      "type": 4,
@@ -775,7 +775,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "Tzolis",
-     "poeng": 1,
+     "poeng": 5,
      "posisjon": 13,
      "spilt": true,
      "type": 3,
@@ -806,7 +806,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "6013090": {
    "beste_gw_nr": 2,
@@ -818,7 +818,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 34,
+   "gw_poeng": 42,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -831,7 +831,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Raya",
-     "poeng": 1,
+     "poeng": 3,
      "posisjon": 1,
      "spilt": true,
      "type": 1,
@@ -867,7 +867,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -879,7 +879,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Tzolis",
-     "poeng": 1,
+     "poeng": 5,
      "posisjon": 5,
      "spilt": true,
      "type": 3,
@@ -927,7 +927,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
      "spilt": true,
      "type": 4,
@@ -1006,14 +1006,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "6216295": {
    "beste_gw_nr": 2,
    "bytter": [],
    "chip": null,
    "fornavn": "Sondre",
-   "gw_poeng": 53,
+   "gw_poeng": 57,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1026,7 +1026,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Raya",
-     "poeng": 1,
+     "poeng": 3,
      "posisjon": 1,
      "spilt": true,
      "type": 1,
@@ -1038,7 +1038,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Gabriel",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -1062,7 +1062,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -1208,7 +1208,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Karl",
-   "gw_poeng": 56,
+   "gw_poeng": 58,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Haaland",
@@ -1233,7 +1233,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -1341,7 +1341,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 11,
      "spilt": true,
      "type": 4,
@@ -1416,7 +1416,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Hans Theodor",
-   "gw_poeng": 45,
+   "gw_poeng": 47,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1441,7 +1441,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -1537,7 +1537,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 10,
      "spilt": true,
      "type": 4,
@@ -1604,14 +1604,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "6357910": {
    "beste_gw_nr": 2,
    "bytter": [],
    "chip": null,
    "fornavn": "Wille Mikal",
-   "gw_poeng": 62,
+   "gw_poeng": 68,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1660,7 +1660,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -1696,7 +1696,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Tzolis",
-     "poeng": 1,
+     "poeng": 5,
      "posisjon": 7,
      "spilt": true,
      "type": 3,
@@ -1720,7 +1720,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
      "spilt": true,
      "type": 4,
@@ -1811,7 +1811,7 @@
    ],
    "chip": null,
    "fornavn": "Sander",
-   "gw_poeng": 35,
+   "gw_poeng": 38,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1848,7 +1848,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "White",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 3,
      "spilt": true,
      "type": 2,
@@ -1860,7 +1860,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -1932,7 +1932,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 10,
      "spilt": true,
      "type": 4,
@@ -1999,7 +1999,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "7573061": {
    "beste_gw_nr": 2,
@@ -2015,7 +2015,7 @@
    ],
    "chip": null,
    "fornavn": "Mats",
-   "gw_poeng": 49,
+   "gw_poeng": 51,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2052,7 +2052,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 3,
      "spilt": true,
      "type": 2,
@@ -2124,7 +2124,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
      "spilt": true,
      "type": 4,
@@ -2203,7 +2203,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "854499": {
    "beste_gw_nr": 2,
@@ -2268,7 +2268,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 4,
      "spilt": true,
      "type": 2,
@@ -2316,7 +2316,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 8,
+     "poeng": 6,
      "posisjon": 8,
      "spilt": true,
      "type": 3,
@@ -2328,7 +2328,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 9,
      "spilt": true,
      "type": 4,
@@ -2388,7 +2388,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "Konsa",
-     "poeng": 1,
+     "poeng": 4,
      "posisjon": 14,
      "spilt": true,
      "type": 2,
@@ -2400,14 +2400,14 @@
      "motstander": null,
      "mult": 0,
      "navn": "Tzolis",
-     "poeng": 1,
+     "poeng": 5,
      "posisjon": 15,
      "spilt": true,
      "type": 3,
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "8609232": {
    "beste_gw_nr": 2,
@@ -2419,7 +2419,7 @@
    ],
    "chip": null,
    "fornavn": "Tinius",
-   "gw_poeng": 39,
+   "gw_poeng": 40,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2444,7 +2444,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -2588,7 +2588,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
      "spilt": true,
      "type": 4,
@@ -2607,7 +2607,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   },
   "963265": {
    "beste_gw_nr": 2,
@@ -2675,7 +2675,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Kasper",
-   "gw_poeng": 40,
+   "gw_poeng": 41,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2700,7 +2700,7 @@
      "motstander": null,
      "mult": 1,
      "navn": "Calafiori",
-     "poeng": 1,
+     "poeng": 2,
      "posisjon": 2,
      "spilt": true,
      "type": 2,
@@ -2832,7 +2832,7 @@
      "motstander": null,
      "mult": 0,
      "navn": "João Pedro",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
      "spilt": true,
      "type": 4,
@@ -2856,14 +2856,14 @@
      "motstander": null,
      "mult": 0,
      "navn": "Konsa",
-     "poeng": 1,
+     "poeng": 4,
      "posisjon": 15,
      "spilt": true,
      "type": 2,
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 3
   }
  },
  "ferdig": false,
