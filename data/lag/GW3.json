@@ -818,7 +818,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 42,
+   "gw_poeng": 50,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -875,12 +875,24 @@
     },
     {
      "kaptein": false,
+     "lag_kode": 6,
+     "motstander": null,
+     "mult": 1,
+     "navn": "Van Hecke",
+     "poeng": 8,
+     "posisjon": 5,
+     "spilt": true,
+     "type": 2,
+     "vise": false
+    },
+    {
+     "kaptein": false,
      "lag_kode": 3,
      "motstander": null,
      "mult": 1,
      "navn": "Tzolis",
      "poeng": 5,
-     "posisjon": 5,
+     "posisjon": 6,
      "spilt": true,
      "type": 3,
      "vise": true
@@ -892,7 +904,7 @@
      "mult": 1,
      "navn": "B.Fernandes",
      "poeng": 2,
-     "posisjon": 6,
+     "posisjon": 7,
      "spilt": true,
      "type": 3,
      "vise": false
@@ -904,20 +916,8 @@
      "mult": 1,
      "navn": "Foden",
      "poeng": 1,
-     "posisjon": 7,
-     "spilt": true,
-     "type": 3,
-     "vise": false
-    },
-    {
-     "kaptein": false,
-     "lag_kode": 36,
-     "motstander": null,
-     "mult": 1,
-     "navn": "Hinshelwood",
-     "poeng": 0,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -971,14 +971,14 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 6,
+     "lag_kode": 36,
      "motstander": null,
      "mult": 0,
-     "navn": "Van Hecke",
-     "poeng": 8,
+     "navn": "Hinshelwood",
+     "poeng": 0,
      "posisjon": 13,
-     "spilt": true,
-     "type": 2,
+     "spilt": false,
+     "type": 3,
      "vise": false
     },
     {
@@ -1006,7 +1006,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6216295": {
    "beste_gw_nr": 2,
@@ -1208,7 +1208,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Karl",
-   "gw_poeng": 58,
+   "gw_poeng": 68,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Haaland",
@@ -1289,13 +1289,13 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 3,
+     "lag_kode": 91,
      "motstander": null,
      "mult": 1,
-     "navn": "Eze",
-     "poeng": 0,
+     "navn": "Tavernier",
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1361,13 +1361,13 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 91,
+     "lag_kode": 3,
      "motstander": null,
      "mult": 0,
-     "navn": "Tavernier",
-     "poeng": 10,
+     "navn": "Eze",
+     "poeng": 0,
      "posisjon": 13,
-     "spilt": true,
+     "spilt": false,
      "type": 3,
      "vise": false
     },
@@ -1416,7 +1416,7 @@
    ],
    "chip": "Triple Captain",
    "fornavn": "Hans Theodor",
-   "gw_poeng": 47,
+   "gw_poeng": 50,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1449,13 +1449,13 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 43,
+     "lag_kode": 40,
      "motstander": null,
      "mult": 1,
-     "navn": "O'Reilly",
-     "poeng": 0,
+     "navn": "Diop",
+     "poeng": 3,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1569,13 +1569,13 @@
     },
     {
      "kaptein": false,
-     "lag_kode": 40,
+     "lag_kode": 43,
      "motstander": null,
      "mult": 0,
-     "navn": "Diop",
-     "poeng": 3,
+     "navn": "O'Reilly",
+     "poeng": 0,
      "posisjon": 13,
-     "spilt": true,
+     "spilt": false,
      "type": 2,
      "vise": false
     },
@@ -1604,7 +1604,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 1
   },
   "6357910": {
    "beste_gw_nr": 2,
@@ -2866,6 +2866,6 @@
    "verste_gw_nr": 3
   }
  },
- "ferdig": false,
+ "ferdig": true,
  "gw": 3
 }
