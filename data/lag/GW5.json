@@ -155,9 +155,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -230,7 +228,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Herman",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -324,37 +322,31 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "M.Sangaré",
      "poeng": 0,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -455,7 +447,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 0,
+   "gw_poeng": 6,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -507,14 +499,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kayode",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -577,9 +567,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -661,14 +649,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Janelt",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     }
@@ -966,7 +952,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1060,14 +1046,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1088,9 +1072,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -1212,7 +1194,7 @@
    ],
    "chip": "Free Hit",
    "fornavn": "Sondre",
-   "gw_poeng": 0,
+   "gw_poeng": 4,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1278,28 +1260,24 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1587,9 +1565,7 @@
     {
      "kaptein": true,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "João Pedro",
      "poeng": 0,
@@ -1662,7 +1638,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Hans Theodor",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1728,14 +1704,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -1798,9 +1772,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -1887,7 +1859,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Wille Mikal",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Isak",
@@ -1953,14 +1925,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2009,9 +1979,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -2257,9 +2225,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -2346,7 +2312,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Mats",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2454,23 +2420,19 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -2580,7 +2542,7 @@
    ],
    "chip": null,
    "fornavn": "Fredrik",
-   "gw_poeng": 0,
+   "gw_poeng": 2,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2688,14 +2650,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2758,9 +2718,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "João Pedro",
      "poeng": 0,
@@ -3193,9 +3151,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "João Pedro",
      "poeng": 0,
@@ -3263,14 +3219,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "M.Sangaré",
      "poeng": 0,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
