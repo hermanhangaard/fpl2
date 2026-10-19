@@ -366,14 +366,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -744,14 +742,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -812,7 +808,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 62,
+   "gw_poeng": 63,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -834,14 +830,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Van Hecke",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1009,7 +1003,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Sondre",
-   "gw_poeng": 60,
+   "gw_poeng": 61,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "João Pedro",
@@ -1043,14 +1037,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Thomas",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1165,9 +1157,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Pedro Porro",
      "poeng": 0,
@@ -1350,14 +1340,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1547,9 +1535,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1573,14 +1559,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "van Ewijk",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1751,9 +1735,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -1789,14 +1771,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "van Ewijk",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -1975,9 +1955,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -2013,14 +1991,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "van Ewijk",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -2183,9 +2159,7 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Dubravka",
      "poeng": 0,
@@ -2197,14 +2171,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Thomas",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2223,14 +2195,12 @@
     {
      "kaptein": false,
      "lag_kode": 9,
-     "motstander": [
-      "TOT (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "van Ewijk",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -2242,7 +2212,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Fredrik",
-   "gw_poeng": 71,
+   "gw_poeng": 72,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2252,14 +2222,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -2452,7 +2420,7 @@
    ],
    "chip": null,
    "fornavn": "Tinius",
-   "gw_poeng": 61,
+   "gw_poeng": 62,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2462,14 +2430,12 @@
     {
      "kaptein": false,
      "lag_kode": 6,
-     "motstander": [
-      "COV (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kinsky",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
