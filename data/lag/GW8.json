@@ -222,9 +222,9 @@
    ],
    "chip": null,
    "fornavn": "Herman",
-   "gw_poeng": 34,
+   "gw_poeng": 36,
    "har_beste_gw": false,
-   "har_verste_gw": true,
+   "har_verste_gw": false,
    "kaptein": "Haaland",
    "lagnavn": "Im Sesko and Iknowit",
    "trekk": 0,
@@ -352,14 +352,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -424,7 +422,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 37,
+   "gw_poeng": 42,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -458,14 +456,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Bogle",
-     "poeng": 0,
+     "poeng": 5,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -662,9 +658,9 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Ludvig",
-   "gw_poeng": 19,
+   "gw_poeng": 21,
    "har_beste_gw": false,
-   "har_verste_gw": false,
+   "har_verste_gw": true,
    "kaptein": "Palmer",
    "lagnavn": "bruno blid",
    "trekk": 0,
@@ -792,14 +788,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -852,7 +846,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 8
   },
   "6013090": {
    "beste_gw_nr": 2,
@@ -1059,7 +1053,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Sondre",
-   "gw_poeng": 37,
+   "gw_poeng": 39,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "João Pedro",
@@ -1189,14 +1183,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1249,14 +1241,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 8
   },
   "6283726": {
    "beste_gw_nr": 4,
    "bytter": [],
    "chip": null,
    "fornavn": "Karl",
-   "gw_poeng": 27,
+   "gw_poeng": 29,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "João Pedro",
@@ -1362,14 +1354,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1412,14 +1402,12 @@
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "LEE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "E.Le Fée",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1448,7 +1436,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 8
   },
   "630698": {
    "beste_gw_nr": 2,
@@ -1609,14 +1597,12 @@
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "LEE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Xhaka",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1645,7 +1631,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 8
   },
   "6357910": {
    "beste_gw_nr": 7,
@@ -1840,14 +1826,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 8
   },
   "6806105": {
    "beste_gw_nr": 2,
    "bytter": [],
    "chip": null,
    "fornavn": "Sander",
-   "gw_poeng": 28,
+   "gw_poeng": 30,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1977,14 +1963,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Calvert-Lewin",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2037,14 +2021,14 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 8
   },
   "7573061": {
    "beste_gw_nr": 2,
    "bytter": [],
    "chip": null,
    "fornavn": "Mats",
-   "gw_poeng": 24,
+   "gw_poeng": 26,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2150,14 +2134,12 @@
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "LEE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Brobbey",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2234,7 +2216,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 8
   },
   "854499": {
    "beste_gw_nr": 2,
@@ -2278,7 +2260,7 @@
    ],
    "chip": "Wildcard",
    "fornavn": "Fredrik",
-   "gw_poeng": 43,
+   "gw_poeng": 52,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2324,14 +2306,12 @@
     {
      "kaptein": false,
      "lag_kode": 2,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Muharemović",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2684,7 +2664,7 @@
    ],
    "chip": null,
    "fornavn": "Kasper",
-   "gw_poeng": 42,
+   "gw_poeng": 41,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Palmer",
@@ -2872,7 +2852,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 8
   }
  },
  "ferdig": false,
