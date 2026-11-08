@@ -5,7 +5,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Kristupas",
-   "gw_poeng": 27,
+   "gw_poeng": 47,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -41,14 +41,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -91,42 +89,36 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -159,9 +151,7 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Palmer",
      "poeng": 0,
@@ -173,14 +163,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -221,7 +209,7 @@
    ],
    "chip": null,
    "fornavn": "Herman",
-   "gw_poeng": 42,
+   "gw_poeng": 60,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -279,14 +267,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -305,28 +291,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -407,14 +389,12 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Diop",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -435,7 +415,7 @@
    ],
    "chip": null,
    "fornavn": "Henrik",
-   "gw_poeng": 60,
+   "gw_poeng": 84,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Barry",
@@ -481,14 +461,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -521,14 +499,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -571,14 +547,12 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Isak",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -597,42 +571,36 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "BHA (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Janelt",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "BHA (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Kayode",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Neto",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     }
@@ -644,7 +612,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Ludvig",
-   "gw_poeng": 21,
+   "gw_poeng": 54,
    "har_beste_gw": false,
    "har_verste_gw": true,
    "kaptein": "Haaland",
@@ -678,28 +646,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Ouattara",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -720,42 +684,36 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -786,23 +744,19 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Palmer",
      "poeng": 0,
@@ -860,7 +814,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Henrik",
-   "gw_poeng": 44,
+   "gw_poeng": 76,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -942,28 +896,24 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -984,14 +934,12 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1010,14 +958,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1036,28 +982,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Truffert",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -1069,7 +1011,7 @@
    "bytter": [],
    "chip": "Triple Captain",
    "fornavn": "Sondre",
-   "gw_poeng": 22,
+   "gw_poeng": 48,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1103,84 +1045,72 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Hill",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Neto",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1225,9 +1155,7 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Palmer",
      "poeng": 0,
@@ -1297,7 +1225,7 @@
    ],
    "chip": null,
    "fornavn": "Karl",
-   "gw_poeng": 24,
+   "gw_poeng": 40,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1355,28 +1283,24 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1395,28 +1319,24 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1449,28 +1369,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "E.Le Fée",
-     "poeng": 0,
+     "poeng": 11,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1510,7 +1426,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Hans Theodor",
-   "gw_poeng": 25,
+   "gw_poeng": 44,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1520,14 +1436,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -1570,14 +1484,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1608,14 +1520,12 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1648,14 +1558,12 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Isak",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1674,14 +1582,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1700,14 +1606,12 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Diop",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 15,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     }
@@ -1724,7 +1628,7 @@
    ],
    "chip": null,
    "fornavn": "Wille Mikal",
-   "gw_poeng": 10,
+   "gw_poeng": 52,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1734,42 +1638,36 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Vuskovic",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Virgil",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1788,14 +1686,12 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -1830,14 +1726,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
@@ -1870,14 +1764,12 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Isak",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1908,14 +1800,12 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Diop",
-     "poeng": 0,
+     "poeng": 1,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1939,7 +1829,7 @@
    "bytter": [],
    "chip": null,
    "fornavn": "Sander",
-   "gw_poeng": 34,
+   "gw_poeng": 54,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1961,28 +1851,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Virgil",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2027,14 +1913,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2091,14 +1975,12 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 12,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
@@ -2155,7 +2037,7 @@
    ],
    "chip": null,
    "fornavn": "Mats",
-   "gw_poeng": 12,
+   "gw_poeng": 39,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2165,28 +2047,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2245,42 +2123,36 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2323,14 +2195,12 @@
     {
      "kaptein": false,
      "lag_kode": 56,
-     "motstander": [
-      "CHE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Brobbey",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2375,7 +2245,7 @@
    ],
    "chip": null,
    "fornavn": "Fredrik",
-   "gw_poeng": 24,
+   "gw_poeng": 41,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Rogers",
@@ -2421,14 +2291,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "BHA (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Ajer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2447,28 +2315,24 @@
     {
      "kaptein": true,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 2,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 4,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2515,14 +2379,12 @@
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Evanilson",
-     "poeng": 0,
+     "poeng": 9,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2567,9 +2429,7 @@
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "McAteer",
      "poeng": 0,
@@ -2595,7 +2455,7 @@
    ],
    "chip": null,
    "fornavn": "Tinius",
-   "gw_poeng": 12,
+   "gw_poeng": 55,
    "har_beste_gw": true,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2629,84 +2489,72 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 3,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Vuskovic",
-     "poeng": 0,
+     "poeng": 12,
      "posisjon": 4,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 5,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2739,23 +2587,19 @@
     {
      "kaptein": false,
      "lag_kode": 14,
-     "motstander": [
-      "CRY (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Isak",
-     "poeng": 0,
+     "poeng": 8,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 40,
-     "motstander": [
-      "BOU (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Button",
      "poeng": 0,
@@ -2813,7 +2657,7 @@
    ],
    "chip": null,
    "fornavn": "Kasper",
-   "gw_poeng": 22,
+   "gw_poeng": 51,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -2823,28 +2667,24 @@
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Verbruggen",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 1,
-     "spilt": false,
+     "spilt": true,
      "type": 1,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "De Cuyper",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 2,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2887,56 +2727,48 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Rogers",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 6,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 36,
-     "motstander": [
-      "BRE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Groß",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 7,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Palmer",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 8,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": true
     },
     {
      "kaptein": false,
      "lag_kode": 91,
-     "motstander": [
-      "IPS (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Tavernier",
-     "poeng": 0,
+     "poeng": 3,
      "posisjon": 9,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
@@ -2981,9 +2813,7 @@
     {
      "kaptein": false,
      "lag_kode": 8,
-     "motstander": [
-      "SUN (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "João Pedro",
      "poeng": 0,
