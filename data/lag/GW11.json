@@ -192,9 +192,7 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Maitland-Niles",
      "poeng": 0,
@@ -204,7 +202,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   },
   "3427307": {
    "beste_gw_nr": 2,
@@ -416,7 +414,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Henrik",
-   "gw_poeng": 57,
+   "gw_poeng": 75,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -534,14 +532,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 10,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": true
     },
@@ -572,28 +568,24 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Janelt",
-     "poeng": 0,
+     "poeng": 10,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 3,
      "vise": false
     },
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Kayode",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 14,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -1000,7 +992,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 1
+   "verste_gw_nr": 11
   },
   "6216295": {
    "beste_gw_nr": 2,
@@ -1385,14 +1377,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -1625,7 +1615,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 11
   },
   "6357910": {
    "beste_gw_nr": 7,
@@ -1820,7 +1810,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 11
   },
   "6806105": {
    "beste_gw_nr": 2,
@@ -1836,7 +1826,7 @@
    ],
    "chip": "Bench Boost",
    "fornavn": "Sander",
-   "gw_poeng": 40,
+   "gw_poeng": 42,
    "har_beste_gw": false,
    "har_verste_gw": false,
    "kaptein": "Haaland",
@@ -1966,14 +1956,12 @@
     {
      "kaptein": false,
      "lag_kode": 11,
-     "motstander": [
-      "BRE (A)"
-     ],
+     "motstander": null,
      "mult": 1,
      "navn": "Barry",
-     "poeng": 0,
+     "poeng": 2,
      "posisjon": 11,
-     "spilt": false,
+     "spilt": true,
      "type": 4,
      "vise": false
     },
@@ -2382,14 +2370,12 @@
     {
      "kaptein": false,
      "lag_kode": 94,
-     "motstander": [
-      "EVE (H)"
-     ],
+     "motstander": null,
      "mult": 0,
      "navn": "Ajer",
-     "poeng": 0,
+     "poeng": 6,
      "posisjon": 13,
-     "spilt": false,
+     "spilt": true,
      "type": 2,
      "vise": false
     },
@@ -2418,7 +2404,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 5
+   "verste_gw_nr": 11
   },
   "8609232": {
    "beste_gw_nr": 2,
@@ -2613,7 +2599,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 3
+   "verste_gw_nr": 11
   },
   "963265": {
    "beste_gw_nr": 2,
@@ -2813,7 +2799,7 @@
      "vise": false
     }
    ],
-   "verste_gw_nr": 8
+   "verste_gw_nr": 11
   }
  },
  "ferdig": false,
